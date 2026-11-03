@@ -4,7 +4,8 @@ dist/
 __pycache__/
 *.pyc
 coverage/
-LOGGING.md
-example/
-.logx/
-.claude/
+# Local LogX state from running the CLI on this repo (root only; templates/LOGGING.md must stay tracked).
+/LOGGING.md
+/example/
+/.logx/
+/.claude/
