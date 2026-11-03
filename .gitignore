@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tgz
+__pycache__/
+*.pyc
+coverage/
+LOGGING.md
+example/
+.logx/
+.claude/
